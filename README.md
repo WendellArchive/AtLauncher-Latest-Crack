@@ -6,7 +6,7 @@ ________
 - Does not auto update (to prevent crack from being overwritten)
 - Does not verify if you have a valid account (so you can use offline accounts)
 
-This is the latest AtLauncher version 3.4.38.0 as of now!
+This is the latest AtLauncher version 3.4.40.1 as of now!
 
 How To Install and Set Username
 ________________________________
